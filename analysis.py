@@ -182,7 +182,7 @@ def read_trajectory(filename):
         for line in f:
             parts = line.strip().split()
 
-            step = int(parts[0])   # not used, but good to read explicitly
+            step = int(parts[0])  
             energy = float(parts[1])
 
             path = []
