@@ -12,7 +12,7 @@ The written answers for the exam questions are included in:
 - Answers for **Questions 1, 2, and 4** are in `1_2_4_answers.pdf`
 - The answer for **Question 3 (Monte Carlo part)** is in `3rd_asnwer_MC.pdf`
 
-## Running the exact enumeration code
+## Enumeration code
 
 The `main.py` file can be run by giving a sequence as input.
 
