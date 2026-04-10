@@ -18,7 +18,7 @@ The `main.py` file can be run by giving a sequence as input.
 
 Example:
 
-python3 main.py HHPHPHPH
+python main.py HHPHPHPH
 
 This will calculate the results for the given sequence.
 
@@ -33,7 +33,7 @@ the number of MC steps
 
 Example:
 
-python3 MC.py HHPHPHPH 100000
+python MC.py HHPHPHPH 100000
 
 This generates the Monte Carlo trajectory.
 
@@ -44,7 +44,7 @@ the trajectory file name
 
 Example:
 
-python3 analyze_MC.py HHPHPHPH trajectory.txt
+python analyze_MC.py HHPHPHPH trajectory.txt
 
 This analyzes the Monte Carlo trajectory for the selected sequence.
 
